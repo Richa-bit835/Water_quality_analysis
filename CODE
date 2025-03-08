@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Water Quality in Agriculture</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Water Quality in Agriculture</h1>
+        <nav>
+            <ul>
+                <li><a href="#introduction">Introduction</a></li>
+                <li><a href="#importance">Importance</a></li>
+                <li><a href="#data">Data & Analysis</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="introduction">
+        <h2>Introduction</h2>
+        <p>Water quality is crucial for sustainable agriculture. The quality of water used in irrigation impacts crop health, soil condition, and ultimately, food safety. This page explores various aspects of water quality and its importance in agriculture.</p>
+    </section>
+
+    <section id="importance">
+        <h2>Importance of Water Quality in Agriculture</h2>
+        <p>Water quality affects not only the productivity of crops but also the health of consumers. Poor quality water can lead to soil degradation, lower crop yields, and health risks due to contaminants. Monitoring and managing water quality is essential for ensuring agricultural sustainability.</p>
+    </section>
+
+    <section id="data">
+        <h2>Data & Analysis</h2>
+        <div class="chart">
+            <h3>Water Quality Parameters</h3>
+            <p>Temperature, pH, dissolved oxygen, and other parameters are key indicators of water quality. The data visualization below highlights the water quality metrics across different regions.</p>
+            <img src="chart-placeholder.png" alt="Water Quality Chart">
+        </div>
+    </section>
+
+    <footer>
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>For more information, please contact us at <a href="mailto:info@waterqualityagriculture.com">info@waterqualityagriculture.com</a>.</p>
+        </section>
+        <p>&copy; 2024 Water Quality in Agriculture. All rights reserved.</p>
+    </footer>
+</body>
+</html>
